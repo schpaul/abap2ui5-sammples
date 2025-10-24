@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>Z_M_TODO</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>TODOs messages</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_M_TODO</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>TODO could not be created. Error during insertion</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_M_TODO</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>TODO with ID &amp;1 could not be deleted. Error during deletion</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_M_TODO</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>TODO with ID &amp;1 could not be updated. Error during update</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_M_TODO</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Title is required</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
